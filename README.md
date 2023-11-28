@@ -1,7 +1,7 @@
 # Linkscape
 
 This website serves as a simple platform to display profile links. Whether you want to share your social media profiles, professional networks, or any other online presence, this site provides a clean and minimalist way to showcase your links.
-> [Open Linkscape](https://bhupenderhere.github.io/Git-Cheat-Sheet/)
+> [Open Linkscape](https://bhupenderhere.github.io/Linkscape/)
 
 ## Features
 
